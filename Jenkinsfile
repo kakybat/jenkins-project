@@ -1,4 +1,4 @@
-node ("main") {
+node ("linux") {
     stage("GradleApp-Unit Tests"){
         echo "Unit Tests execution"
     }
